@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
 		System.out.println("hello");
 		System.out.println("world");
 		//lala
+		//ni
 		System.out.println("caonimei");
 		return true;
 	}
